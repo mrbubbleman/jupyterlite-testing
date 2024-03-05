@@ -61,3 +61,6 @@ haversine
 folium
 anywidget
 ipydatagrid
+
+# Python: network libraries
+lxml
