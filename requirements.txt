@@ -60,3 +60,4 @@ pyodide_http
 haversine
 folium
 anywidget
+ipydatagrid
