@@ -62,5 +62,6 @@ folium
 anywidget
 ipydatagrid
 
-# Python: network libraries
+# Python: misc libraries
 lxml
+pgeocode
