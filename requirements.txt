@@ -55,7 +55,7 @@ theme-darcula
 jupyterlab-open-url-parameter
 
 # Python: visualization libraries
-nbformat
+nbformat>=4.2.0
 pyodide_http
 haversine
 folium
